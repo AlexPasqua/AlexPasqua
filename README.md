@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Studies:
-<img width=70px src="https://upload.wikimedia.org/wikipedia/it/7/72/Stemma_unipi.png" /> &nbsp;
-<img width=70px src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Universit%C3%A0Verona.svg/1200px-Universit%C3%A0Verona.svg.png" />
+<img width=70px src="assets/unipi_logo.png" /> &nbsp;
+<img width=70px src="assets/univr_logo.png" />
 * **Master's degree:** I am currently a MSc student in **AI** @ University of Pisa
 * **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of Verona
 <br><br>
