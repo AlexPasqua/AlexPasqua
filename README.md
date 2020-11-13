@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
-<img width=70px src="assets/univr_logo.png" />
-* **Master's degree:** I am currently a MSc student in **AI** @ University of Pisa
-* **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of Verona
+<img width=70px src="assets/univr_logo.png" /> &nbsp;
+<img width=70px src="assets/elte_logo.png" />
+* **Master's degree:** I am currently a MSc student in **Artificial Intelligence** @ University of _Pisa_
+* **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
+  * **Erasmus** semester @ ELTE University in _Budapest_
 <br><br>
 
 [![Alex Pasquali's github stats](https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
