@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 * **Master's degree:** I am currently a MSc student in **Artificial Intelligence** @ University of _Pisa_
 * **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
   * **Erasmus** semester @ ELTE University in _Budapest_
-<br>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
