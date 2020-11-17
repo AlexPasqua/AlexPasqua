@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height=170 src="https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true">
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true">
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPasqua&layout=compact&langs_count=10">
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPasqua&layout=compact&langs_count=10">
   </a>
 </div>
