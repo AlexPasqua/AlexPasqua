@@ -24,6 +24,12 @@ Here are some ideas to get you started:
   * **Erasmus** semester @ ELTE University in _Budapest_
 <br><br>
 
-[![Alex Pasquali's github stats](https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true">
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPasqua&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPasqua&layout=compact&langs_count=10">
+  </a>
+</div>
