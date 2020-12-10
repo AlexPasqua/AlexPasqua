@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
- - [NNs_from_scratch](https://github.com/AlexPasqua/AlexPasqua/NNs_from_scratch)
+ - Neural networks from scratch: [NNs_from_scratch](https://github.com/AlexPasqua/NNs-from-scratch)
+ - Data mining for spending behaviour analysis: [DM-project](https://github.com/AlexPasqua/DM-project)
 
 ### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
