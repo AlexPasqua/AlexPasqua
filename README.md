@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on:
+ - [NNs_from_scratch](https://github.com/AlexPasqua/AlexPasqua/NNs_from_scratch)
+
 ### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
