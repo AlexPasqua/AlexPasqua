@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
  - [NNs_from_scratch](https://github.com/AlexPasqua/AlexPasqua/NNs_from_scratch)
 
 ### Studies:
