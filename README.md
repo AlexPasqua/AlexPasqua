@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - Neural networks from scratch: [NNs_from_scratch](https://github.com/AlexPasqua/NNs-from-scratch)
  - Data mining for spending behaviour analysis: [DM-project](https://github.com/AlexPasqua/DM-project)
 
-
+<br>
 ### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
