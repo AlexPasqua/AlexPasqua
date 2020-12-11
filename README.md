@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on:
+:hammer: I’m currently working on:
  - Neural networks from scratch: [NNs_from_scratch](https://github.com/AlexPasqua/NNs-from-scratch)
  - Data mining for spending behaviour analysis: [DM-project](https://github.com/AlexPasqua/DM-project)
 
