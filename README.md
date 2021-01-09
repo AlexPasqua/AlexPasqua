@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:hammer: I’m currently working on:
- - Neural networks from scratch: [NNs_from_scratch](https://github.com/AlexPasqua/NNs-from-scratch)
- - Data mining for spending behaviour analysis: [DM-project](https://github.com/AlexPasqua/DM-project)
+:hammer: I’m currently working on [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
 
 ### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=true&show_icons=true">
+    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=AlexPasqua&count_private=false&show_icons=true">
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
