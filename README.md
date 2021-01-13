@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 :hammer: I’m **currently working** on [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
 
-#### Some of my recent projects:
+### Some of my recent projects:
 - [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer)
 - [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
 
-#### Studies:
+### Studies:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
 <img width=70px src="assets/elte_logo.png" />
