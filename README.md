@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
   * **Erasmus** semester @ ELTE University in _Budapest_
 
-<details>
+<details open>
   <summary>GitHub stats</summary>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
