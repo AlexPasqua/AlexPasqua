@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:hammer: I’m **currently working** on [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
+<!--
+:hammer: I’m **currently working** on ...
+-->
 
 ### Some of my recent projects 💻:
 - [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer)
+- [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
 - [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
 
 ### Studies 🎓:
