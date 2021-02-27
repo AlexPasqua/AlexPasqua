@@ -20,18 +20,16 @@ Here are some ideas to get you started:
 -->
 
 ### Some of my recent projects 💻:
-- [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer)
-- [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
-- [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
+[Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
+[Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch) |
+[Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
 
-<!--
-### Contributed to:
-<details open>
-  <summary></summary>
-
-  - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
-</details>
--->
+#### Contributed also to:
+<div>
+  <a href="https://github.com/he-y/Awesome-Pruning">
+    <img align="center" height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=he-y&repo=Awesome-Pruning">
+  </a>
+</div>
 
 ### Studies 🎓:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
@@ -41,6 +39,7 @@ Here are some ideas to get you started:
 * **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
   * **Erasmus** semester @ ELTE University in _Budapest_
 
+<!-- GitHub stats -->
 <details open>
   <summary>GitHub stats</summary>
   <div>
