@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 - [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch)
 - [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
 
+<!--
+### Contributed to:
+<details open>
+  <summary></summary>
+
+  - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+</details>
+-->
+
 ### Studies 🎓:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
