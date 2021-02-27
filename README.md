@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 #### Contributed also to:
 <div>
-  <a href="https://github.com/he-y/Awesome-Pruning">
-    <img align="center" height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=he-y&repo=Awesome-Pruning">
+  <a href="https://github.com/he-y/Awesome-Pruning" target="_blank">
+    <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=he-y&repo=Awesome-Pruning">
   </a>
 </div>
 
