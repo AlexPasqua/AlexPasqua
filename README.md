@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-:hammer: I’m **currently working** on ...
--->
+
+:hammer: I’m **currently working** on [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube: 
+
 
 ### Some of my recent projects 💻:
 [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
