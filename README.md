@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
 [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch) |
 [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
+<br>
+Check out the pinned repos for more 😃
 
-#### Contributed also to:
+<!-- #### Contributed also to:
 <div>
   <a href="https://github.com/he-y/Awesome-Pruning" target="_blank">
     <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=he-y&repo=Awesome-Pruning">
   </a>
-</div>
+</div> -->
 
 ### Studies 🎓:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
