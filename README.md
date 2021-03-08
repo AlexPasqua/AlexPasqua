@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
 [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch) |
 [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
-<br>
+
+
 Check out the pinned repos for more 😃
 
 <!-- #### Contributed also to:
