@@ -16,13 +16,30 @@ Here are some ideas to get you started:
 -->
 
 
-:hammer: I’m **currently working** on [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube: 
+:hammer: I’m **currently working** on
+<!-- [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube: -->
+<div>
+  <a href="https://github.com/AlexPasqua/covid19-vax-Italy-analysis" target="_blank">
+    <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=AlexPasqua&repo=covid19-vax-Italy-analysis">
+  </a>
+</div>
 
 
 ### Some of my recent projects 💻:
-[Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
+<!-- [Keras-Caffe both-ways converter](https://github.com/AlexPasqua/keras-caffe_converter_optimizer) |
 [Neural networks from scratch](https://github.com/AlexPasqua/NNs-from-scratch) |
-[Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
+[Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project) -->
+<div>
+  <a href="(https://github.com/AlexPasqua/keras-caffe-converter" target="_blank">
+    <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=AlexPasqua&repo=keras-caffe-converter">
+  </a>
+  <a href="(https://github.com/AlexPasqua/NNs-from-scratch" target="_blank">
+    <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=AlexPasqua&repo=NNs-from-scratch">
+  </a>
+  <a href="(https://github.com/AlexPasqua/DM-project" target="_blank">
+    <img align="center" height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=AlexPasqua&repo=DM-project">
+  </a>
+</div>
 
 #### Contributed also to:
 <div>
