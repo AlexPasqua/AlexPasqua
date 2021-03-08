@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [Data mining project on customers' behavior](https://github.com/AlexPasqua/DM-project)
 
 
-Check out the pinned repos for more 😃
+_Check out the **pinned repos** for more!_ 😃
 
 <!-- #### Contributed also to:
 <div>
