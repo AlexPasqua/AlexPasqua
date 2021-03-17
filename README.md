@@ -34,13 +34,13 @@ _Check out the **pinned repos** for more!_ 😃
   </a>
 </div> -->
 
-### Studies 🎓:
+<!-- ### Studies 🎓:
 <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
 <img width=70px src="assets/elte_logo.png" />
 * **Master's degree:** I am currently a MSc student in **Artificial Intelligence** @ University of _Pisa_
 * **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
-  * **Erasmus** semester @ ELTE University in _Budapest_
+  * **Erasmus** semester @ ELTE University in _Budapest_ -->
 
 <!-- GitHub stats -->
 <details open>
