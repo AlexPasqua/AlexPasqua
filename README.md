@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/alex-pasquali/">
+  <img src="assets/linkedin_logo.png" width=35>
+</a>
+
 <!--
 **AlexPasqua/AlexPasqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<br>
 
 :hammer: I’m **currently working** on [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube: 
 
