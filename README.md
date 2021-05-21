@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<br>
-
-:hammer: I’m **currently working** on [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube: 
+<!-- :hammer: I’m **currently working** on [Analysis on Covid19 vaccinations in Italy](https://github.com/AlexPasqua/covid19-vax-Italy-analysis) :test_tube:  -->
 
 
 ### Some of my recent projects 💻:
@@ -40,13 +37,13 @@ _Check out the **pinned repos** for more!_ 😃
   </a>
 </div> -->
 
-<!-- ### Studies 🎓:
-<img width=70px src="assets/unipi_logo.png" /> &nbsp;
+### Studies 🎓:
+<!-- <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
-<img width=70px src="assets/elte_logo.png" />
-* **Master's degree:** I am currently a MSc student in **Artificial Intelligence** @ University of _Pisa_
-* **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of _Verona_
-  * **Erasmus** semester @ ELTE University in _Budapest_ -->
+<img width=70px src="assets/elte_logo.png" /> -->
+* **Master's degree:** I am currently a MSc student in **Artificial Intelligence** @ University of Pisa
+* **Bachelor's degree:** I graduated with honors in **Computer Science** @ University of Verona
+  * **Erasmus** semester @ ELTE University in Budapest
 
 <!-- GitHub stats -->
 <details open>
